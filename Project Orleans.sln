@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGrain11", "IGrain11\IGrain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainCollection11", "GrainCollection11\GrainCollection11.csproj", "{253613C5-FF2F-4CE1-8763-FA137E6E57B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebOrleans", "WebOrleans\WebOrleans.csproj", "{F4253389-F925-4912-9DE7-61ACBDD048C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4253389-F925-4912-9DE7-61ACBDD048C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4253389-F925-4912-9DE7-61ACBDD048C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4253389-F925-4912-9DE7-61ACBDD048C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4253389-F925-4912-9DE7-61ACBDD048C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

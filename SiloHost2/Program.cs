@@ -21,6 +21,8 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHE
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
+
+using IGrain11;
 using Orleans;
 using System;
 using System.Threading.Tasks;
@@ -48,6 +50,8 @@ namespace SiloHost2
             // TODO: once the previous call returns, the silo is up and running.
             //       This is the place your custom logic, for example calling client logic
             //       or initializing an HTTP front end for accepting incoming requests.
+
+           
 
             var friend = GrainClient.GrainFactory.GetGrain<IGrain11.IGrain1>(0);
             Console.WriteLine("\n\n{0}\n\n", friend.SayHello().Result);
