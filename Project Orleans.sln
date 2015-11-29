@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiloHost2", "SiloHost2\SiloHost2.csproj", "{8DD1100C-55B0-4965-9EB2-3AC6149BFDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGrain11", "IGrain11\IGrain11.csproj", "{6AB30BAD-739F-46DE-A928-D0295FCB2B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainCollection11", "GrainCollection11\GrainCollection11.csproj", "{253613C5-FF2F-4CE1-8763-FA137E6E57B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD1100C-55B0-4965-9EB2-3AC6149BFDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD1100C-55B0-4965-9EB2-3AC6149BFDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD1100C-55B0-4965-9EB2-3AC6149BFDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD1100C-55B0-4965-9EB2-3AC6149BFDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB30BAD-739F-46DE-A928-D0295FCB2B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB30BAD-739F-46DE-A928-D0295FCB2B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB30BAD-739F-46DE-A928-D0295FCB2B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB30BAD-739F-46DE-A928-D0295FCB2B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253613C5-FF2F-4CE1-8763-FA137E6E57B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
